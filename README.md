@@ -19,6 +19,11 @@ Wazuh est une solution open source de SIEM (Security Information and Event Manag
 - Téléchargez la dernière version d'Ubuntu 22.04. 
 - Installez Ubuntu sur le serveur physique ou virtuel.Dans notre cas sur un environnement Proxmox
 
+---
+![image](https://github.com/user-attachments/assets/a2587bdf-0aa4-4591-bb08-afbb1bf9c62e)
+
+---
+
 ### b. Mise à jour des dépôts APT
 
 Avant toute installation, il est essentiel de mettre à jour les sources de paquets pour obtenir les dernières versions des logiciels disponibles.  
